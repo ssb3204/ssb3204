@@ -1,7 +1,5 @@
 <div align="center">
 
-### I build backend services and data pipelines.
-
 <!-- Quick links (원하면 남기고, 아니면 지워도 됨) -->
 <a href="https://github.com/YOUR_GITHUB_ID"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
@@ -13,6 +11,18 @@
 <a href="https://solved.ac/profile/20193116">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=20193116" />
 </a>
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ssb3204?theme=light)](https://leetcode.com/ssb3204/)
+<div align="center">
+
+#### CodeTree (via GitHub sync)
+
+
+[![CodeTree TIL last commit](https://img.shields.io/github/last-commit/ssb3204/python_training?label=CodeTree%20TIL%20last%20commit)](https://github.com/ssb3204/python_training)
+[![CodeTree commits/month](https://img.shields.io/github/commit-activity/m/ssb3204/python_training?label=CodeTree%20commits%2Fmonth)](https://github.com/ssb3204/python_training)
+
+
+
 
 </div>
 
@@ -26,8 +36,6 @@
 <br/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=coffeescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/JPA-59666C?style=flat"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
 
 <br/><br/>
 
