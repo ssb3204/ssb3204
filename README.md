@@ -69,8 +69,6 @@
 - Real-time CDC pipeline: **MySQL → Debezium → Kafka → Consumer**
 - Data warehouse modeling & 운영: **Snowflake / Redshift**
 - Workflow automation: **Airflow DAG 설계 / 운영 / 모니터링**
-- Backend 성능 개선: **캐싱, 비동기 처리, 쿼리 최적화**
-- (선택) MSA/아키텍처: **API 설계, 장애 대응, 운영 관점**
 
 ---
 
