@@ -71,28 +71,4 @@
 - Workflow automation: **Airflow DAG 설계 / 운영 / 모니터링**
 
 ---
-
-## Projects (Pinned 추천)
-
-- **Real-time CDC Streaming Pipeline**  
-  MySQL 변경 데이터를 Debezium+Kafka로 스트리밍하고 Consumer에서 처리하는 파이프라인  
-  Repo: https://github.com/YOUR_GITHUB_ID/YOUR_REPO
-
-- **Tourism Spending Dashboard (Superset)**  
-  관광 소비 데이터를 기반으로 지표/인사이트 대시보드 구축  
-  Repo: https://github.com/YOUR_GITHUB_ID/YOUR_REPO
-
-- **Cine-Hive (Spring Boot)**  
-  JWT 인증 + 마이페이지(찜 목록/댓글/좋아요) 등 기능 개발 및 성능 개선 시도  
-  Repo: https://github.com/YOUR_GITHUB_ID/YOUR_REPO
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&cache_seconds=21600" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_ID&layout=compact&cache_seconds=21600" />
-
 </div>
